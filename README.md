@@ -1,5 +1,5 @@
 # 💫 About Me
-🧑‍💻 ASIC Verification Engineer in making, sharing my journey and learning in Hardware industry.</br><br>
+🧑‍💻 ASIC Verification Engineer in making, sharing my learning and journey in Hardware industry.</br><br>
 🧑‍🎓 Pursuing Master's in Computer Engineering at [North Carolina State University.](https://www.ncsu.edu/)<br/> <br>
 💭 Currently Working on creating testbench for [AXI protocol.](https://developer.arm.com/documentation/ihi0022/latest/)</br> 
 
